@@ -86,7 +86,7 @@ var helloEditor = {
 
         $(window).bind('beforeunload', function(){
             if (helloEditor.confirmExit) {
-                return "Be sure you've copied your code to a safe place or used the share button.";
+                return "Проверь, что ты сохранил свой код с помощью функции поделиться, иначе он пропадет навсегда.";
             }
         });
 

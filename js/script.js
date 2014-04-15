@@ -9,7 +9,7 @@
  */
 
 var scriptOne = {
-    vimeoURL: "https://vimeo.com/80274630",
+    vimeoURL: "https://vimeo.com/91981404",
     runCache: null,
     exerciseTime: null,    
     reset: function () {
@@ -100,7 +100,7 @@ var scriptOne = {
  */
 
 var scriptTwo = {
-    vimeoURL: "https://vimeo.com/79984989",
+    vimeoURL: "https://vimeo.com/91982023",
     runCache: null,
     exerciseTime: "9:01.5",
     reset: function () {
@@ -325,7 +325,7 @@ var scriptTwo = {
  */
 
 var scriptThree = {
-    vimeoURL: "https://vimeo.com/79984990",
+    vimeoURL: "https://vimeo.com/91982680",
     runCache: null,
     exerciseTime: "5:57.20",    
     reset: function () {
@@ -517,7 +517,7 @@ var scriptThree = {
  */
 
 var scriptFour = {
-    vimeoURL: "https://vimeo.com/79984988",
+    vimeoURL: "https://vimeo.com/91983330",
     runCache: null,
     exerciseTime: "10:21",    
     reset: function () {
@@ -699,7 +699,7 @@ var scriptFour = {
  */
 
 var scriptFive = {
-    vimeoURL: "https://vimeo.com/79984987",
+    vimeoURL: "https://vimeo.com/91980887",
     runCache: null,
     exerciseTime: "5:34",    
 
@@ -862,7 +862,7 @@ var scriptFive = {
  */
 
 var scriptSix = {
-    vimeoURL: "https://vimeo.com/80275178",
+    vimeoURL: "https://vimeo.com/91980417",
     runCache: null,
     exerciseTime: "1:19",    
     reset: function () {
