@@ -537,5 +537,5 @@ div#page h2, div#page h3 {
 }
 
 div#social {
-	
+	z-index: 1001;
 }
