@@ -119,6 +119,7 @@ footer#splashFooter {
 	min-width: 700px;
 	color: #666;
 	display: none;
+	z-index: 1001;
 }
 
 /* Header */
@@ -534,8 +535,4 @@ div#page h2 {
 div#page h2, div#page h3 {
 	font-family: 'theSerif', georgia, times, serif; 
 	color: #5E86A3;	
-}
-
-div#social {
-	z-index: 1001;
 }
